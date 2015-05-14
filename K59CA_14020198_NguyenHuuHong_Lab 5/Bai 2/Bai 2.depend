@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1431619830 source:c:\users\hong\desktop\bai 2\main.cpp
+	<iostream>
+	<linkList.h>
+	<Student.h>
+
+1431619019 source:c:\users\hong\desktop\bai 2\src\linklist.cpp
+	"linkList.h"
+
+1431620715 c:\users\hong\desktop\bai 2\include\linklist.h
+	<iostream>
+	<iomanip>
+	<Student.h>
+
+1431619869 c:\users\hong\desktop\bai 2\include\student.h
+	<iostream>
+	<iomanip>
+
+1431616895 source:c:\users\hong\desktop\bai 2\src\student.cpp
+	"Student.h"
+
+1431620627 source:c:\users\hong\desktop\nguyenhuuhong_14020198\bai 2\src\linklist.cpp
+	"linkList.h"
+
+1431620715 c:\users\hong\desktop\nguyenhuuhong_14020198\bai 2\include\linklist.h
+	<iostream>
+	<iomanip>
+	<Student.h>
+
+1431619869 c:\users\hong\desktop\nguyenhuuhong_14020198\bai 2\include\student.h
+	<iostream>
+	<iomanip>
+
+1431616895 source:c:\users\hong\desktop\nguyenhuuhong_14020198\bai 2\src\student.cpp
+	"Student.h"
+

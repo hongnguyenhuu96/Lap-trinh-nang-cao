@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1431189864 source:c:\users\hong\desktop\bai 1\main.cpp
+	<COMPLEX.h>
+
+1431189863 c:\users\hong\desktop\bai 1\include\complex.h
+	"iostream"
+
+1431189861 source:c:\users\hong\desktop\bai 1\src\complex.cpp
+	"COMPLEX.h"
+	"cmath"
+	"iostream"
+
+1431597084 source:e:\windows 7\desktop\lab 5\bai 1\main.cpp
+	<COMPLEX.h>
+
+1431595338 e:\windows 7\desktop\lab 5\bai 1\include\complex.h
+	"iostream"
+	"cmath"
+
+1431595277 source:e:\windows 7\desktop\lab 5\bai 1\src\complex.cpp
+	"COMPLEX.h"
+
+1431597084 source:c:\users\hong\desktop\nguyenhuuhong_14020198\bai 1\main.cpp
+	<COMPLEX.h>
+
+1431595338 c:\users\hong\desktop\nguyenhuuhong_14020198\bai 1\include\complex.h
+	"iostream"
+	"cmath"
+
+1431595277 source:c:\users\hong\desktop\nguyenhuuhong_14020198\bai 1\src\complex.cpp
+	"COMPLEX.h"
+

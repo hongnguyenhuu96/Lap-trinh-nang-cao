@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1431619677 source:c:\users\hong\desktop\bai 4\main.cpp
+	<Student.h>
+	<DSLK.h>
+	"src\DSLK.cpp"
+	"src\Student.cpp"
+
+1431620897 c:\users\hong\desktop\bai 4\include\student.h
+	<iomanip>
+	<iostream>
+	<string>
+
+1431598479 c:\users\hong\desktop\bai 4\include\dslk.h
+	<iostream>
+	<string>
+
+1431619741 source:c:\users\hong\desktop\bai 4\src\dslk.cpp
+	"DSLK.h"
+
+1431599103 source:c:\users\hong\desktop\bai 4\src\student.cpp
+	"Student.h"
+
+1431619741 c:\users\hong\desktop\bai 4\src\dslk.cpp
+	"DSLK.h"
+
+1431599103 c:\users\hong\desktop\bai 4\src\student.cpp
+	"Student.h"
+
+1431536060 source:e:\windows 7\desktop\lab 5\bai 4\main.cpp
+	<Student.h>
+	<DSLK.h>
+	"src\DSLK.cpp"
+	"src\Student.cpp"
+
+1431598261 e:\windows 7\desktop\lab 5\bai 4\include\student.h
+	<iomanip>
+	<iostream>
+	<string>
+
+1431598479 e:\windows 7\desktop\lab 5\bai 4\include\dslk.h
+	<iostream>
+	<string>
+
+1431599305 e:\windows 7\desktop\lab 5\bai 4\src\dslk.cpp
+	"DSLK.h"
+
+1431599103 e:\windows 7\desktop\lab 5\bai 4\src\student.cpp
+	"Student.h"
+
+1431619618 source:e:\windows 7\desktop\lab 5\bai 4\src\dslk.cpp
+	"DSLK.h"
+
+1431599103 source:e:\windows 7\desktop\lab 5\bai 4\src\student.cpp
+	"Student.h"
+
+1431619677 source:c:\users\hong\desktop\nguyenhuuhong_14020198\bai 4\main.cpp
+	<Student.h>
+	<DSLK.h>
+	"src\DSLK.cpp"
+	"src\Student.cpp"
+
+1431620958 c:\users\hong\desktop\nguyenhuuhong_14020198\bai 4\include\student.h
+	<iomanip>
+	<iostream>
+	<string>
+
+1431598479 c:\users\hong\desktop\nguyenhuuhong_14020198\bai 4\include\dslk.h
+	<iostream>
+	<string>
+
+1431619741 c:\users\hong\desktop\nguyenhuuhong_14020198\bai 4\src\dslk.cpp
+	"DSLK.h"
+
+1431599103 c:\users\hong\desktop\nguyenhuuhong_14020198\bai 4\src\student.cpp
+	"Student.h"
+
+1431619741 source:c:\users\hong\desktop\nguyenhuuhong_14020198\bai 4\src\dslk.cpp
+	"DSLK.h"
+
+1431599103 source:c:\users\hong\desktop\nguyenhuuhong_14020198\bai 4\src\student.cpp
+	"Student.h"
+
