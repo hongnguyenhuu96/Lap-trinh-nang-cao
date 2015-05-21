@@ -1,0 +1,3 @@
+Nguyen huu hong,20,Toan,10,Ly,10,Tin,10
+Ton ngo khong,10000,Phep,72
+Khong minh,80,Van,10,Binh Phap,10
